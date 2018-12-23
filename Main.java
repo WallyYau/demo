@@ -3,6 +3,7 @@ package com.wyau;
 // Code to show how recursion works
 public class Main {
 
+    // this is a function to calculate
     static int fibonacci(int n) {
         if (n == 0) {
             return 0;
