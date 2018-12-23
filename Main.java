@@ -1,5 +1,6 @@
 package com.wyau;
 
+// Code to show how recursion works
 public class Main {
 
     static int fibonacci(int n) {
